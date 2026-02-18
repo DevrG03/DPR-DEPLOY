@@ -1,7 +1,3 @@
-# WARP.md
-
-This file provides guidance to WARP (warp.dev) when working with code in this repository.
-
 ## Project Overview
 
 SMART DPR Manager is a full-stack application for managing Daily Progress Reports (DPR) in construction projects using Google Sheets integration. It consists of:
